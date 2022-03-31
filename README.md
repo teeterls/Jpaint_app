@@ -15,6 +15,7 @@ As for hiding, showing or deleting groups, you will have to indicate the color o
 If you try to modify figures or groups that have not been previously drawn, the program will do nothing. 
 However, if you try to execute any option without the necessary attributes selected, the program will generate an exception. 
 
-Finally, the text and object files corresponding to the drawing will be located in the files folder. 
-The executable .jar file is also included.
+Finally, the text and object files corresponding to the drawing will be located in a folder called "ficheros". 
+The code is located in Source folder, and Classes and methods doc in Javadoc folder.
+The executable .jar file is also included (Bin folder).
 
